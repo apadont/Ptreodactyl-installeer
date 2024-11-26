@@ -31,6 +31,6 @@ _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Contributors ✨
 
-Copyright (C) 2023 - 2024, Foxstore, @foxstore_id.
+Copyright (C) 2023 - 2024, natan, @natan.
 
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
+- Created by [ natan ](https://github.com/apadont)
