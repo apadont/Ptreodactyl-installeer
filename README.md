@@ -7,7 +7,7 @@
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
 
 ```bash
-[https://raw.githubusercontent.com/apadont/Ptreodactyl-installeer/refs/heads/main/install.sh]
+https://raw.githubusercontent.com/apadont/Ptreodactyl-installeer/refs/heads/main/install.sh
 ```
 
 ## Features
